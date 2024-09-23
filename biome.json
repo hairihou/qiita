@@ -4,6 +4,7 @@
     "ignore": [".vscode"]
   },
   "formatter": {
+    "enabled": false,
     "formatWithErrors": true,
     "indentStyle": "space",
     "lineWidth": 120
