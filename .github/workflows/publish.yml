@@ -23,7 +23,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - uses: increments/qiita-cli/actions/publish@cfb85137952f978957dc04eae87286f0e2dc9d1d # v1
+      - uses: increments/qiita-cli/actions/publish@1fe96670b4119691673e476017fcc61d0d6a6246 # v1
         with:
           qiita-token: ${{ secrets.QIITA_TOKEN }}
           root: '.'
