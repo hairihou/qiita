@@ -16,6 +16,6 @@
   "devDependencies": {
     "@qiita/qiita-cli": "^1.6.2",
     "lefthook": "^1.11.4",
-    "prettier": "^3.5.3"
+    "prettier": "^3.6.2"
   }
 }
