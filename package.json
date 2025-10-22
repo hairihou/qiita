@@ -8,12 +8,8 @@
     "lint": "prettier --check .",
     "format": "prettier --write ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hairihou/qiita.git"
-  },
   "author": "Yusuke Mizuno <hairihou.dev@gmail.com>",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "devDependencies": {
     "@qiita/qiita-cli": "^1.6.2",
     "lefthook": "^2.0.0",
