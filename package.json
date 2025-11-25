@@ -5,11 +5,8 @@
   "type": "module",
   "scripts": {
     "preview": "qiita preview",
-    "lint": "prettier --check .",
     "format": "prettier --write ."
   },
-  "author": "Yusuke Mizuno <hairihou.dev@gmail.com>",
-  "license": "UNLICENSED",
   "devDependencies": {
     "@qiita/qiita-cli": "^1.6.2",
     "lefthook": "^2.0.4",
