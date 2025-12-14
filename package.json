@@ -8,8 +8,8 @@
     "format": "prettier --write ."
   },
   "devDependencies": {
-    "@qiita/qiita-cli": "^1.6.2",
-    "lefthook": "^2.0.8",
+    "@qiita/qiita-cli": "^1.7.0",
+    "lefthook": "^2.0.9",
     "prettier": "^3.7.4"
   }
 }
