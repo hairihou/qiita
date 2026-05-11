@@ -10,6 +10,6 @@
   "devDependencies": {
     "@qiita/qiita-cli": "^1.8.0",
     "lefthook": "^2.1.6",
-    "oxfmt": "^0.47.0"
+    "oxfmt": "^0.48.0"
   }
 }
