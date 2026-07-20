@@ -8,8 +8,8 @@
     "preview": "qiita preview"
   },
   "devDependencies": {
-    "@qiita/qiita-cli": "^1.8.0",
-    "lefthook": "^2.1.9",
-    "oxfmt": "^0.55.0"
+    "@qiita/qiita-cli": "^1.9.1",
+    "lefthook": "^2.1.10",
+    "oxfmt": "^0.59.0"
   }
 }
