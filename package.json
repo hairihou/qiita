@@ -8,7 +8,7 @@
     "preview": "qiita preview"
   },
   "devDependencies": {
-    "@qiita/qiita-cli": "^1.10.0",
-    "oxfmt": "^0.73.0"
+    "@qiita/qiita-cli": "^1.12.0",
+    "oxfmt": "^0.74.0"
   }
 }
