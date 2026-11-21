@@ -9,6 +9,6 @@
   },
   "devDependencies": {
     "@qiita/qiita-cli": "^1.13.0",
-    "oxfmt": "^0.78.0"
+    "oxfmt": "^0.79.0"
   }
 }
